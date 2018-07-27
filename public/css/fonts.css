@@ -1,0 +1,44 @@
+@font-face {
+	font-family: 'HelveticaNeue';
+	src: url('../fonts/helveticaneue/helveticaneuecyr-medium.eot');
+	src: local('../fonts/helveticaneue/helveticaneuecyr-medium'),
+		url('../fonts/helveticaneue/helveticaneuecyr-medium.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/helveticaneue/helveticaneuecyr-medium.woff') format('woff'),
+		url('../fonts/helveticaneue/helveticaneuecyr-medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HelveticaNeue';
+	src: url('../fonts/helveticaneue/helveticaneuecyr-bold.eot');
+	src: local('../fonts/helveticaneue/helveticaneuecyr-bold'),
+		url('../fonts/helveticaneue/helveticaneuecyr-bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/helveticaneue/helveticaneuecyr-bold.woff') format('woff'),
+		url('../fonts/helveticaneue/helveticaneuecyr-bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HelveticaNeue';
+	src: url('../fonts/helveticaneue/helveticaneuecyr-light.eot');
+	src: local('../fonts/helveticaneue/helveticaneuecyr-light'),
+		url('../fonts/helveticaneue/helveticaneuecyr-light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/helveticaneue/helveticaneuecyr-light.woff') format('woff'),
+		url('../fonts/helveticaneue/helveticaneuecyr-light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Glyphicons Halflings';
+	src: url('../fonts/glyphicons-halflings/glyphicons-halflings-regular.eot');
+	src: local('../fonts/glyphicons-halflings/glyphicons-halflings-regular'),
+		url('../fonts/glyphicons-halflings/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/glyphicons-halflings/glyphicons-halflings-regular.woff') format('woff'),
+		url('../fonts/glyphicons-halflings/glyphicons-halflings-regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Tahoma';
+	src:url(../fonts/tahoma/tahoma.ttf);
+}

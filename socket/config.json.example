@@ -1,0 +1,12 @@
+{
+  "socket": {
+    "port": "6001",
+    "secure": false,
+    "secure_key": "./ssl_certificate.key",
+    "secure_cert": "./ssl_certificate.crt"
+  },
+  "redis": {
+    "host": "redis",
+    "port": "6379"
+  }
+}

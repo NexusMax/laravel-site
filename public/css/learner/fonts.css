@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'HelveticaNeue';
+	/*src: url('http://web10.dtemp.site/web10/fonts/helveticaneue/helveticaneuecyr-medium.eot');*/
+	/*src: local('http://web10.dtemp.site/web10/fonts/helveticaneue/helveticaneuecyr-medium'),
+		url('http://web10.dtemp.site/web10/fonts/helveticaneue/helveticaneuecyr-medium.eot?#iefix') format('embedded-opentype');/
+		/*url('../fonts/helveticaneue/helveticaneuecyr-medium.woff') format('woff'),*/
+		/*url('http://web10.dtemp.site/web10/fonts/helveticaneue/helveticaneuecyr-medium.ttf') format('truetype');*/
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HelveticaNeue';
+	/*src: url('../fonts/helveticaneue/helveticaneuecyr-bold.eot');*/
+	src: local('../fonts/helveticaneue/helveticaneuecyr-bold');
+		/*url('../fonts/helveticaneue/helveticaneuecyr-bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/helveticaneue/helveticaneuecyr-bold.woff') format('woff'),
+		url('../fonts/helveticaneue/helveticaneuecyr-bold.ttf') format('truetype');*/
+	font-weight: bold;
+	font-style: normal;
+}
